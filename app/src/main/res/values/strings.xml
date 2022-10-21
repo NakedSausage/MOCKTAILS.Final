@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">mocktails</string>
+    <string name="desc" />
+    <string name="cranberry">CRANBERRY</string>
+    <string name="berry_burlesque">BERRY BURLESQUE</string>
+    <string name="citrus_fizz">CITRUS FIZZ</string>
+    <string name="lavender_lemonade">LAVENDER LEMONADE</string>
+    <string name="shirley_ginger">SHIRLEY GINGER</string>
+    <string name="vintage_point">VINTAGE POINT</string>
+</resources>
