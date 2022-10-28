@@ -81,7 +81,7 @@ public final class MainActivity extends AppCompatActivity {
     }
 
     private final void openLemonadeActivity() {
-        this.startActivity((new Intent((Context)this, LemonadeActivity.class)).putExtra("name", "Lavender Lemonade Ingredients\n\nIngredients\n\n6 cups water\n.5 cup honey\n5 tbsp dried lavender\n1 cup fresh lemon juice, strained\n\nInstructions\n\nBring water and honey to a boil in a large pot over medium-high heat. Gently crush the lavender in a mortar and pestle or in a bowl with a meat tenderizer. Add the crushed lavender to the pot then remove it from the heat. Cover, refrigerate, and steep for 2 hours. Strain the liquid through a fine mesh sieve. Stir in the lemon juice and serve over ice.").putExtra("imageName", R.drawable.lavender_lemonade));
+        this.startActivity((new Intent((Context)this, LemonadeActivity.class)).putExtra("name", "Lavender Lemonade\n\nIngredients\n\n6 cups water\n.5 cup honey\n5 tbsp dried lavender\n1 cup fresh lemon juice, strained\n\nInstructions\n\nBring water and honey to a boil in a large pot over medium-high heat. Gently crush the lavender in a mortar and pestle or in a bowl with a meat tenderizer. Add the crushed lavender to the pot then remove it from the heat. Cover, refrigerate, and steep for 2 hours. Strain the liquid through a fine mesh sieve. Stir in the lemon juice and serve over ice.").putExtra("imageName", R.drawable.lavender_lemonade));
     }
 
     private final void openShirleyActivity() {
