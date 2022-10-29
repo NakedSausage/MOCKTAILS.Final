@@ -8,8 +8,8 @@
     tools:context=".MainActivity">
 
     <GridLayout
-        android:layout_width="391dp"
-        android:layout_height="595dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
         android:layout_margin="10dp"
         android:columnCount="2"
         android:rowCount="3"
